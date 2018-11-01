@@ -5,7 +5,7 @@ Text classification with spacy
 https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49
 
 ## Comments
-This article is not that much interesting.
+This article is not that much interesting.  
 TODO : implement classifier with spacy textcat module
 
 ## WARNING
